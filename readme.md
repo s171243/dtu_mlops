@@ -1,3 +1,10 @@
+---
+layout: default
+title: Homepage
+nav_order: 1
+has_children: true
+---
+
 # Machine Learning Operations
 This repository contains the exercises for the DTU course Machine Learning Operations (MLOps). 
 All exercises are written in the [Python](https://www.python.org/) programming language and formatted 
