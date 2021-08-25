@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terminal
-parent: day1
+parent: Day 1 - Getting started
 nav_order: 1
 ---
 
