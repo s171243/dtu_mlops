@@ -6,7 +6,8 @@ nav_order: 1
 ---
 
 # Title
-{: .no_toc }
+<!-- 
+{: .no_toc } 
 
 <details open markdown="block">
   <summary>
@@ -16,6 +17,7 @@ nav_order: 1
 1. TOC
 {:toc}
 </details>
+-->
 
 ---
 
